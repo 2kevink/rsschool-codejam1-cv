@@ -110,3 +110,21 @@ nav ul {
     color: green;
   }
   
+/*--------Info------*/
+
+  .info {
+    padding-top: 30px;
+    margin-top: -60px;
+    margin: 0 auto;
+  }
+  
+  .info .info-header {
+    margin-top: 50px;
+    color: #008080;
+    font-weight: normal;
+  }
+  .info p{
+      padding-top: 15px;
+      line-height: 1.3em;
+      line-break: 1.2em;
+  }
